@@ -2,3 +2,4 @@ youtube.com
 +youtube.com/feed/subscriptions
 +youtube.com/watch*
 +youtube.com/c/*
++youtube.com/results*
